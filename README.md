@@ -43,4 +43,4 @@ If you found any bugs, feel free **to create a new issue**  [clicking here!](htt
 Created in 2023
 
 
-Developed with 💜 by [Marcus Rodrigues](https://www.linkedin.com/in/jhonatan-garcia/).
+Developed with 💜 by [Jhonatan Garcia](https://www.linkedin.com/in/jhonatan-garcia/).
